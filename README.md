@@ -30,7 +30,7 @@ Optionally integrates with a mobile app to display live data and send alerts wit
 
 System Diagram:-
 
-(Refer to the hand-drawn system architecture shared)
+i have designed it by myself 
 
 ---
 Key Components:-
